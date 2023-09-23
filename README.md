@@ -7,7 +7,7 @@
 ---
 
 ### :woman_technologist: Про мене :
-Я навчаюсь в академії GoIT за напряму Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+Я навчаюсь в академії GoIT за напрямком Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 - :seedling: Вже володію навичками HTML та CSS, а також знаю трохи JavaScript <br>
 - :telescope: На початку року почну вивчати React та Node.js, але це не межа моїх амбіцій <br> 
 - :zap: Я завжди намагаюсь практикувати, щоб вдосконалити свою майстерність
