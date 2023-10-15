@@ -24,7 +24,7 @@
 <img align="left" alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
 <img align="left" alt="Slack" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" />
 <img align="left" alt="Slack" width="32px" src="https://github.com/goitacademy/vanilla-app-template/blob/main/src/public/favicon.svg" />
-</div> <br>
+</div> <br> <br>
 
 ---
 
