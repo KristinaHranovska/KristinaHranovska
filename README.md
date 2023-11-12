@@ -1,4 +1,4 @@
-<div align="center" ><b>Привіт, я Кристина </b> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJhdnh0YWRzOW12dXg1b3V5c21pcHdiamY4YXExb3ZjdnI0Znl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"/> </div>
+<div align="center" ><b>Hi, I'm Krystyna </b> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJhdnh0YWRzOW12dXg1b3V5c21pcHdiamY4YXExb3ZjdnI0Znl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"/> </div>
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBzYTl4amgzcW5tYTg1ang2djFmbHNvM3ZjdHQyeXEwNXg1dWVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rqd9R3yaDy16a8kDC1/giphy.gif" width="150" />
@@ -6,15 +6,15 @@
 
 ---
 
-### :woman_technologist: Про мене :
-Я навчаюсь в академії GoIT за напрямком Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
-- :seedling: Вже володію навичками HTML та CSS, а також знаю трохи JavaScript <br>
-- :telescope: На початку року почну вивчати React та Node.js, але це не межа моїх амбіцій <br> 
-- :zap: Я завжди намагаюсь практикувати, щоб вдосконалити свою майстерність
+### :woman_technologist: About me :
+I study at the GoIT academy in the direction of Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+- :seedling: I already have HTML and CSS skills and know a little JavaScript <br>
+- :telescope: At the beginning of the year, I will start learning React and Node.js, but this is not the limit of my ambitions<br> 
+- :zap: I always try to practice to improve my skill
 
 ---
 
-### :hammer_and_wrench: Навички :
+### :hammer_and_wrench: My skills :
 <div>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
