@@ -28,10 +28,10 @@ I study at the GoIT academy in the direction of Full Stack Developer <img src="h
 
 ---
 
-### :fire: Мій статус :
+### :fire: My status :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristinaHranovska&layout=donut&bg_color=3a485e&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-"Стрімко вчитися - єдиний спосіб рухатися вперед!" 🚀
+"Learning fast is the only way to move forward!" 🚀
