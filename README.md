@@ -6,7 +6,7 @@
 
 ---
 
-### :woman_technologist: About me :
+### About me :
 I study at the GoIT academy in the direction of Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 - :seedling: I already have HTML and CSS skills and know a little JavaScript <br>
 - :telescope: At the beginning of the year, I will start learning React and Node.js, but this is not the limit of my ambitions<br> 
@@ -14,7 +14,7 @@ I study at the GoIT academy in the direction of Full Stack Developer <img src="h
 
 ---
 
-### :hammer_and_wrench: My skills :
+### My skills :
 <div>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,7 +28,7 @@ I study at the GoIT academy in the direction of Full Stack Developer <img src="h
 
 ---
 
-### :fire: My status :
+### My status :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristinaHranovska&layout=donut&bg_color=3a485e&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
