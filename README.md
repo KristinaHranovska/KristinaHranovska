@@ -37,4 +37,10 @@ I study at the GoIT academy in the direction of Full Stack Developer <img src="h
 ---
 
 ### My status :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristinaHranovska&layout=compact&bg_color=3a485e&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristinaHranovska&layout=compact&bg_color=3a485e&text_color=ffffff" />
+  </a>
+</div>
+
+
