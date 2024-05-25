@@ -8,8 +8,7 @@
 
 ### About me :
 I study at the GoIT academy in the direction of Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
-- :seedling: I already have HTML and CSS skills and know JavaScript and React <br>
-- :telescope: I'm going to start learning Node.js soon, but that's not the limit of my ambitions<br> 
+- :seedling: I already have HTML and CSS skills and know JavaScript, React, Node.js <br>
 - :zap: I always try to practice to improve my skill
 
 ---
