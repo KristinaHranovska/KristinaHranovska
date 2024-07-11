@@ -6,13 +6,6 @@
 
 ---
 
-### About me :
-I study at the GoIT academy in the direction of Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
-- :seedling: I already have HTML and CSS skills and know JavaScript, React, Node.js <br>
-- :zap: I always try to practice to improve my skill
-
----
-
 ### My skills :
 <div align='center'>
 <img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
